@@ -1,0 +1,1 @@
+This project is a task reminder app built with Django framework. It allows users to create, edit, delete, and view their tasks through a web interface or a REST API. The project helps users to manage their time and stay organized. The project uses Django REST framework to implement the API and Bootstrap to style the front-end.
