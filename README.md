@@ -1,1 +1,5 @@
-This project is a task reminder app built with Django framework. It allows users to create, edit, delete, and view their tasks through a web interface or a REST API. The project helps users to manage their time and stay organized. The project uses Django REST framework to implement the API and Bootstrap to style the front-end.
+**API Reminder**
+
+The API Reminder is a task management application constructed using the Django framework. It provides users with the capability to create, modify, delete, and review their tasks via both a user-friendly web interface and a RESTful API. This project serves as a valuable tool for time management and organizational purposes.
+
+The implementation leverages the Django REST Framework for API development and integrates Bootstrap for frontend styling. Furthermore, the project optimally utilizes the functionalities offered by the Django REST Framework, including serializers and permission management, to enhance usability and security.
